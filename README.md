@@ -1,6 +1,6 @@
 # mvvm
 
-A new Flutter project.
+Model View View-Model with clean architecture 
 
 ## Getting Started
 
